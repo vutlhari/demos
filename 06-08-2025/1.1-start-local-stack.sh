@@ -1,0 +1,2 @@
+localstack --version
+localstack start
